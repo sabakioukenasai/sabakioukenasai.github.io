@@ -13,7 +13,7 @@ title                    : "Wenhao Wu / Home Page"
 title_separator          : "-"
 name                     : &name "Wenhao Wu"
 description              : &description "A second year postgraduate student from HITSZ"
-url                      : https://sabakioukenasai.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://sabakioukenasai.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/_pages/about.md" # the subpath of your site, e.g. "/blog"
 repository               : "sabakioukenasai/sabakioukenasai.github.io"
 
